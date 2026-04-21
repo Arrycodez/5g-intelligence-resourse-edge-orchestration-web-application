@@ -127,4 +127,4 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**Maintained by [shivdev79](https://github.com/shivdev79)**
+**Maintained by [Arrycodez](https://github.com/Arrycodez)**
