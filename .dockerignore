@@ -1,0 +1,8 @@
+__pycache__/
+*.joblib
+venv/
+.env
+*.pyc
+frontend/
+simulator/
+node_modules/
